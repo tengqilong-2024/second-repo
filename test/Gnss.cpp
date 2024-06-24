@@ -8,7 +8,6 @@
 #include "ntrip_util.h"
 #include "Gnss.h"
 
-
 #include <unistd.h> 
 #include <arpa/inet.h> 
 #include <time.h>
